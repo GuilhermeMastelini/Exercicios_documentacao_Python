@@ -1,17 +1,17 @@
-#Faça um programa que peça o tamanho de um arquivo para download (em MB)
-# e a velocidade de um link de Internet (em Mbps),
-# calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
+#Faça um Programa que peça um número correspondente a um determinado ano
+# e em seguida informe se este ano é ou não bissexto.
 
-import math
-a = input('Digite o tamanho do arquivo em MB: ')
-b = input('Digite a velocide do link em Mbps: ')
-a = a.strip()
-a = a.replace(',','.')
-a = float(a)
-b = b.strip()
-b = b.replace(',','.')
-b = float(b)
-b = b/8
-c = (b/a)/60
-c = math.ceil(c)
-print('Seu download vai demorar aproximadamente {} minutos'.format(c))
+a = int(input('Digite o ano: '))
+
+v1 = a%4
+v2 = a%100
+
+bv1 = (v1 == 0)
+bv2 = (v2 == 0)
+ver = bv1 or bv2
+
+
+if ver == True:
+    print('{} é um ano bissexto'.format(a))
+else:
+    print('{} não é um ano bissexto'.format(a))
