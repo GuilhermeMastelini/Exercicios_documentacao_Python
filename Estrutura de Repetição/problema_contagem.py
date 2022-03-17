@@ -1,3 +1,5 @@
+# Problema de matemática: Caso duas pessoas trabalhem e folguem em intervalos distintos
+# Quantos dias de folga vão coincidr em um dado intervalo de dias
 
 l1 = []
 l2 = []
