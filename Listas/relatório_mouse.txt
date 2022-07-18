@@ -1,0 +1,5 @@
+Situação                                  Quantidade         Percentual
+1- necessita da esfera                          1               25,00%
+2- necessita de limpeza                         1               25,00%
+3- necessita troca do cabo ou conector          1               25,00%
+4- quebrado ou inutilizado                      1               25,00%

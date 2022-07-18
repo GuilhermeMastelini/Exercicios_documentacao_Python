@@ -1,0 +1,27 @@
+O total de votos foi de 21
+
+ O Jogador 1 recebeu 5 votos com o percentual de 23.8%
+ O Jogador 2 recebeu 5 votos com o percentual de 23.8%
+ O Jogador 3 recebeu 4 votos com o percentual de 19.0%
+ O Jogador 4 recebeu 5 votos com o percentual de 23.8%
+ O Jogador 5 recebeu 2 votos com o percentual de 9.5%
+ O Jogador 6 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 7 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 8 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 9 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 10 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 11 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 12 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 13 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 14 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 15 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 16 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 17 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 18 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 19 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 20 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 21 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 22 recebeu 0 votos com o percentual de 0.0%
+ O Jogador 23 recebeu 0 votos com o percentual de 0.0%
+
+O campeão da enquete foi o jogador 1 com 23.8% somando 5 votos

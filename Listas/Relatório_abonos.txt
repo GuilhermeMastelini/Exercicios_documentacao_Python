@@ -1,0 +1,14 @@
+   Salário        Abono
+ R$ 300,00        R$   100,00 
+ R$ 200,00        R$   100,00 
+ R$ 800,00        R$   160,00 
+ R$ 700,00        R$   140,00 
+ R$ 900,00        R$   180,00 
+ R$ 500,00        R$   100,00 
+ R$ 700,00        R$   140,00 
+ R$ 1200,00       R$   240,00 
+
+Foram processados 8 trabalhadores
+Total gasto com abonos: R$ 240,00
+Valor mínimo pago à 3 trabalhadores
+Maior valor de abono pago: R$ 240,00
