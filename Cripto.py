@@ -18,12 +18,12 @@ def encriptar(msg, chave):
 
                 if j + chave < 26:
                     if vector[i] == l[j]:
-                        encript.append(l[j + chave])
+                        encript.append(l[j - chave])
 
 
                 else:
                     if vector[i] == l[j]:
-                        encript.append(l[25 - j])
+                        encript.append(l[23 - j])
         else:
             encript.append(vector[i])
 
